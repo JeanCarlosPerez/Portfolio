@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "nombre": "Scotify",
+        "descripcion": "Es una plataforma para reclutadores de jugadores de futbol",
+        "tecnologia": "Angular 17, Tailwind, Express JS, Node JS ",
+        "imagenUrl": "assets/img/Scotify.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/Scoutify"
+    },
+    {
+        "id": "2",
+        "nombre": "WorkWave",
+        "descripcion": "Es una plataforma de ofertas de empleo para perfiles junior",
+        "tecnologia": "React, Javascript, Java, Sprint Boot",
+        "imagenUrl": "assets/img/WorkWave.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/WorkWave"
+    },
+    {
+        "id": "3",
+        "nombre": "MataPlantas",
+        "descripcion": "Es una e-commerce creada con react.",
+        "tecnologia": "React, Html, Css, Javascript",
+        "imagenUrl": "assets/img/mataplantas.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/mataplantas"
+    },
+    {
+        "id": "4",
+        "nombre": "Golden Hands",
+        "descripcion": "Es una e-commerce diseñada para adultos mayores donde se ofrecen servicios y productos.",
+        "tecnologia": "Html, Css, Javascript",
+        "imagenUrl": "assets/img/goldenhands.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/golden-hand"
+    },
+    {
+        "id": "5",
+        "nombre": "ChichaRika",
+        "descripcion": "Es una galeria de fotos de un famoso fotografo",
+        "tecnologia": "Html, Css y JavaScript",
+        "imagenUrl": "assets/img/chicharika.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/Chicha-Rika"
+    },
+    {
+        "id": "6",
+        "nombre": "Pokedex",
+        "descripcion": "Es una single pages, donde se muestra informacion relevante de todos los pokemones existetes.",
+        "tecnologia": "React, Html, Css, JavaScript",
+        "imagenUrl": "assets/img/pokedex.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/PokedexReact"
+    },
+    {
+        "id": "7",
+        "nombre": "GorraStyle",
+        "descripcion": "Es una e-commerce diseñada para persol¿nalizar tus gorras a tu estilo",
+        "tecnologia": "Html, Css, JavaScript",
+        "imagenUrl": "assets/img/gorras.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/E-commerce-Snapback"
+    },
+    {
+        "id": "8",
+        "nombre": "API Marvel",
+        "descripcion": "Es una single page que muestra personajes de Marvel",
+        "tecnologia": "Html, Css, JavaScript",
+        "imagenUrl": "assets/img/Marvel.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/ConsumoAPIMarvel"
+    }
+]

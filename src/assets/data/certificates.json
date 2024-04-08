@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "imageCer": "assets/img/hackaton.png",
+        "title": "Ganador Hackaton Globant"
+    },
+    {
+        "id": "2",
+        "imageCer": "assets/img/inco.png",
+        "title": "Green Digital Skill"
+    },
+    {
+        "id": "3",
+        "imageCer": "assets/img/voluntariado.png",
+        "title": "Cooding Week"
+    }
+]
