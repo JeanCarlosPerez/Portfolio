@@ -5,4 +5,5 @@ export interface Projects {
     tecnologia: string;
     imagenUrl: string;
     linkUrl: string;
+    premio: string
   }
