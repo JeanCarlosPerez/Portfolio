@@ -6,12 +6,13 @@ import { HeroComponent } from './components/hero/hero.component';
 import { AboutComponent } from './components/about/about.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { CertificatesComponent } from './components/certificates/certificates.component';
+import { ContactComponent } from './components/contact/contact.component';
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavbarComponent, FooterComponent, HeroComponent,AboutComponent, ProjectsComponent, CertificatesComponent],
+  imports: [RouterOutlet, NavbarComponent, FooterComponent, HeroComponent,AboutComponent, ProjectsComponent, CertificatesComponent, ContactComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

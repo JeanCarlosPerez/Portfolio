@@ -13,7 +13,8 @@
         "descripcion": "Es una plataforma de ofertas de empleo para perfiles junior",
         "tecnologia": "React, Javascript, Java, Sprint Boot",
         "imagenUrl": "assets/img/WorkWave.png",
-        "linkUrl": "https://github.com/JeanCarlosPerez/WorkWave"
+        "linkUrl": "https://github.com/JeanCarlosPerez/WorkWave",
+        "premio": "assets/img/premio.png"
     },
     {
         "id": "3",

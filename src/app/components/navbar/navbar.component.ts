@@ -10,7 +10,11 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './navbar.component.css'
 })
 export class NavbarComponent {
-  
+  showMenu = false; // Flag to control menu visibility
+
+  toggleMenu() {
+    this.showMenu = !this.showMenu; // Toggle menu state on click
+  }
   
   activeElementId: string = 'home';
   isButtonActive: { [key: string]: boolean } = {};
