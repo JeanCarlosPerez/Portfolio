@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+    .barra{
+        display: flex;
+        width: 431px;
+        position: relative;
+    }
+
+    .logo{
+        margin-left: 110px;
+    }
+
+
+}
