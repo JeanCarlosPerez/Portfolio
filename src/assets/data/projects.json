@@ -1,6 +1,14 @@
 [
     {
         "id": "1",
+        "nombre": "Playez",
+        "descripcion": "Es una aplicacion movil para dispositivos android que simula una red social para jugadores de futbol",
+        "tecnologia": "Angular 17, Ionic, Tailwind, Express JS, Node JS ",
+        "imagenUrl": "assets/img/Playez.png",
+        "linkUrl": "https://github.com/JeanCarlosPerez/PlayezPro-Client"
+    },
+    {
+        "id": "2",
         "nombre": "Scotify",
         "descripcion": "Es una plataforma para reclutadores de jugadores de futbol",
         "tecnologia": "Angular 17, Tailwind, Express JS, Node JS ",
@@ -8,7 +16,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/Scoutify"
     },
     {
-        "id": "2",
+        "id": "3",
         "nombre": "WorkWave",
         "descripcion": "Es una plataforma de ofertas de empleo para perfiles junior",
         "tecnologia": "React, Javascript, Java, Sprint Boot",
@@ -17,7 +25,7 @@
         "premio": "assets/img/premio.png"
     },
     {
-        "id": "3",
+        "id": "4",
         "nombre": "MataPlantas",
         "descripcion": "Es una e-commerce creada con react.",
         "tecnologia": "React, Html, Css, Javascript",
@@ -25,7 +33,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/mataplantas"
     },
     {
-        "id": "4",
+        "id": "5",
         "nombre": "Golden Hands",
         "descripcion": "Es una e-commerce diseñada para adultos mayores donde se ofrecen servicios y productos.",
         "tecnologia": "Html, Css, Javascript",
@@ -33,7 +41,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/golden-hand"
     },
     {
-        "id": "5",
+        "id": "6",
         "nombre": "ChichaRika",
         "descripcion": "Es una galeria de fotos de un famoso fotografo",
         "tecnologia": "Html, Css y JavaScript",
@@ -41,7 +49,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/Chicha-Rika"
     },
     {
-        "id": "6",
+        "id": "7",
         "nombre": "Pokedex",
         "descripcion": "Es una single pages, donde se muestra informacion relevante de todos los pokemones existetes.",
         "tecnologia": "React, Html, Css, JavaScript",
@@ -49,7 +57,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/PokedexReact"
     },
     {
-        "id": "7",
+        "id": "8",
         "nombre": "GorraStyle",
         "descripcion": "Es una e-commerce diseñada para persol¿nalizar tus gorras a tu estilo",
         "tecnologia": "Html, Css, JavaScript",
@@ -57,7 +65,7 @@
         "linkUrl": "https://github.com/JeanCarlosPerez/E-commerce-Snapback"
     },
     {
-        "id": "8",
+        "id": "9",
         "nombre": "API Marvel",
         "descripcion": "Es una single page que muestra personajes de Marvel",
         "tecnologia": "Html, Css, JavaScript",

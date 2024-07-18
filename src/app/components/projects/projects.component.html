@@ -6,8 +6,8 @@
   <div class="grid grid-cols-3 gap-4 mt-8 mx-auto mb-12 " style="max-width: 1000px;">
     <!-- Aquí el bucle *ngFor debe generar las tarjetas -->
     <div class="card glass transform hover:scale-110 transition duration-300" *ngFor="let project of Projects">
-      <figure>
-        <img src="{{ project.imagenUrl }}" alt="{{ project.nombre }}" class="h-40 w-82 cursor-pointer" />
+      <figure class="w-[100%] h-40">
+        <img src="{{ project.imagenUrl }}" alt="{{ project.nombre }}" class="w-[100%] h-[100%] cursor-pointer" />
     </figure>
       <div class="card-body">
         <h2 class="card-title font-bold">{{ project.nombre }}</h2>
